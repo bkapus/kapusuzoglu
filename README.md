@@ -1,2 +1,2 @@
 # kapusuzoglu
-root repo
+I love learning
